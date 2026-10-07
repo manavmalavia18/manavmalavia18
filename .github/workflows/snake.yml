@@ -23,7 +23,7 @@ jobs:
           github_user_name: manavmalavia18
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=%2300e5ff&color_dots=%23060b14,%230b2233,%230f3a52,%23157a9e,%2300e5ff
       - name: push snake svgs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

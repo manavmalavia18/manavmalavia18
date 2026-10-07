@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=00FF41&background=0D1117&center=true&multiline=true&width=640&height=100&lines=manav%40github%3A~%24+boot+manav_os;%5BOK%5D+mounting+%2Fdev%2Fskills...;%5BOK%5D+starting+ai-copilot.service;%5BOK%5D+manav_os+ready." alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=00E5FF&background=060B14&center=true&multiline=true&width=640&height=100&lines=manav%40github%3A~%24+boot+manav_os;%5BOK%5D+mounting+%2Fdev%2Fskills...;%5BOK%5D+starting+ai-copilot.service;%5BOK%5D+manav_os+ready." alt="boot sequence" />
+
+<a href="https://manavmalavia.org"><img src="https://img.shields.io/badge/%F0%9F%8C%90_portfolio-manavmalavia.org-00E5FF?style=for-the-badge&labelColor=060B14" /></a>
 
 </div>
 
@@ -18,14 +20,15 @@
 │      \___)=(___/       CPU:      Boston/MA caffeine-core           │
 │                         Cloud:    AWS · GCP · Vercel · Supabase    │
 │                         Langs:    TS · Python · Go · Java          │
+│                         Site:     manavmalavia.org                 │
 │                                                                    │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/manavmalavia18?label=followers&style=flat-square&color=00FF41&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/based_in-Boston,_MA-00FF41?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/uptime-4%2B_years-00FF41?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/manavmalavia18?label=followers&style=flat-square&color=00E5FF&labelColor=060B14" />
+  <img src="https://img.shields.io/badge/based_in-Boston,_MA-00E5FF?style=flat-square&labelColor=060B14" />
+  <img src="https://img.shields.io/badge/uptime-4%2B_years-00E5FF?style=flat-square&labelColor=060B14" />
 </p>
 
 ---
@@ -37,8 +40,16 @@
 > not just sit in a repo. I like building things where AI meets real
 > infrastructure — debugging copilots, MCP servers, automation agents.
 > Deployed multi-cloud (AWS + GCP) more than once because one cloud
-> felt too easy.
+> felt too easy. Full portfolio + case studies: manavmalavia.org
 ```
+
+### `$ xdg-open https://manavmalavia.org`
+
+<p align="center">
+  <a href="https://manavmalavia.org">
+    <img src="https://img.shields.io/badge/visit_full_portfolio-manavmalavia.org-0080FF?style=for-the-badge&logo=firefox&logoColor=00E5FF&labelColor=060B14" />
+  </a>
+</p>
 
 ---
 
@@ -63,6 +74,7 @@ drwxr-xr-x  manav  staff   applytrack/          Job tracker: one-click "Applied"
 drwxr-xr-x  manav  staff   gmail-organizer-mcp/ MCP server that auto-labels/organizes Gmail for Cursor.
 drwxr-xr-x  manav  staff   graphify/            Parses raw text into a knowledge graph of entities
                                                  and relationships.
+-rw-r--r--  manav  staff   portfolio.url        https://manavmalavia.org
 ```
 
 <table align="center">
@@ -112,12 +124,12 @@ drwxr-xr-x  manav  staff   graphify/            Parses raw text into a knowledge
 ### `$ ./run_stats.sh`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manavmalavia18&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=39FF14&border_color=00FF41" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavmalavia18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&border_color=00FF41" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manavmalavia18&show_icons=true&hide_border=true&count_private=true&bg_color=060B14&title_color=00E5FF&icon_color=00E5FF&text_color=66D9FF&border_color=0080FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavmalavia18&layout=compact&hide_border=true&bg_color=060B14&title_color=00E5FF&text_color=66D9FF&border_color=0080FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavmalavia18&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=6b7280" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavmalavia18&hide_border=true&background=060B14&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=66D9FF&currStreakNum=66D9FF&sideNums=66D9FF&dates=5c7a99" />
 </p>
 
 ---
@@ -132,6 +144,8 @@ drwxr-xr-x  manav  staff   graphify/            Parses raw text into a knowledge
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&width=560&lines=manav%40github%3A~%24+echo+%22thanks+for+visiting%22;thanks+for+visiting;manav%40github%3A~%24+star+this_repo+--if-useful;_" alt="footer terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00E5FF&background=060B14&center=true&width=560&lines=manav%40github%3A~%24+echo+%22thanks+for+visiting%22;thanks+for+visiting;manav%40github%3A~%24+open+manavmalavia.org;_" alt="footer terminal" />
+
+<a href="https://manavmalavia.org"><img src="https://img.shields.io/badge/-manavmalavia.org-0080FF?style=flat-square&labelColor=060B14" /></a>
 
 </div>
