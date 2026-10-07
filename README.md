@@ -51,10 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavmalavia18&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manavmalavia18&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 <p align="center"><em>Thanks for stopping by — ⭐ a repo if something here was useful to you.</em></p>
