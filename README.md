@@ -112,16 +112,12 @@ drwxr-xr-x  manav  staff   graphify/            Parses raw text into a knowledge
 ### `$ ./run_stats.sh`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manavmalavia18&show_icons=true&theme=matrix&hide_border=true&count_private=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavmalavia18&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manavmalavia18&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=39FF14&border_color=00FF41" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavmalavia18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&border_color=00FF41" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavmalavia18&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manavmalavia18&theme=matrix&no-frame=true&row=1&column=6&margin-w=4&margin-h=4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavmalavia18&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=6b7280" />
 </p>
 
 ---
